@@ -17,5 +17,8 @@
     border-radius: 6px;
     box-shadow: rgba(0, 0, 0, 0.15);
     display: none;
- 
+}
+/*banner styling*/
+.banner{
+    background-image: url();
 }
